@@ -1,30 +1,64 @@
-<h1 align="center">Hi 👋, I'm Dovganik Daniil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Привет, я Даниил 👋
 
-- 🔭 I’m currently working on **assa**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=40% />
+</div>
 
-- 🌱 I’m currently learning **asdsad**
+---
 
-- 👯 I’m looking to collaborate on **asdsad**
+Я начинающий DevOps-инженер, который увлечён автоматизацией, непрерывной интеграцией и доставкой, облачными технологиями и контейнеризацией. Я хочу развивать свои навыки и знания в этой области и работать над интересными и сложными проектами.
 
-- 🤝 I’m looking for help with **asdsad**
+## Мои навыки 🛠️
 
-- 👨‍💻 All of my projects are available at [asd](asd)
+<br><div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab CI/CD" alt="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>&nbsp;
+</div> <br>
 
-- 📝 I regularly write articles on [dsa](dsa)
+Вот некоторые из технологий и инструментов, которые я использую или изучаю:
 
-- 💬 Ask me about **asdsad**
+- Языки программирования: Python, Bash, C
+- Операционные системы: Ubuntu, FreeBSD
+- Контейнеры: Docker
+- Системы управления конфигурацией: Ansible
+- Системы контроля версий: Git, GitHub, GitLab
+- Системы непрерывной интеграции и доставки: Jenkins GitLab CI/CD
+- Мониторинг и логирование: Prometheus, Grafana
 
-- 📫 How to reach me **dandov9@gmail.com**
+## Мои проекты 💻
 
-- 📄 Know about my experiences [asda](asda)
+![скриншот или демонстрация вашего проекта]
 
-- ⚡ Fun fact **asdsda**
+Вот некоторые из моих проектов, которые я разработал или к которым присоединился:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dvgnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvgnds" height="30" width="40" /></a>
-</p>
+- [Название проекта]: краткое описание проекта и его цели и функциональности. Например: Это веб-приложение, которое позволяет пользователям создавать и делиться своими рецептами. Оно использует React для фронтенда и Flask для бэкенда. Оно развернуто на AWS с помощью Docker и Kubernetes.
+- [Название проекта]: краткое описание проекта и его цели и функциональности. Например: Это скрипт на Python, который автоматически делает бэкапы файлов на Google Drive с помощью API. Он запускается по расписанию с помощью Jenkins.
+- [Название проекта]: краткое описание проекта и его цели и функциональности. Например: Это консольная игра на Bash, которая имитирует игру в крестики-нолики. Она использует цветной вывод и проверяет условия победы.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Мои контакты 📫
+
+<br><div id="badges" align="center">
+  <a href="https://t.me/devshs">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://github.com/optgng">
+    <img src="https://img.shields.io/badge/GitHub-grey?logo=github&style=for-the-badge" alt="GitHub Badge"/>
+  </a>
+  <a href="https://instagram.com/dvgnds?igshid=OGQ5ZDc2ODk2ZA==">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div><br>
+    
+Если вы хотите связаться со мной или узнать больше обо мне, вы можете посетить мои профессиональные профили или написать мне на:
+
+- [GitHub](https://github.com/optgng): здесь вы можете увидеть мои репозитории и вклад в другие проекты.
+- [Email](mailto:algroml@yandex.ru): здесь вы можете написать мне личное сообщение или предложение.
